@@ -1,0 +1,11 @@
+   Speedtest by Ookla
+
+      Server: Black Bear Fiber - State College, PA (id: 50968)
+         ISP: CWAS02
+Idle Latency:    67.51 ms   (jitter: 23.56ms, low: 35.20ms, high: 80.40ms)
+    Download:    66.59 Mbps (data used: 114.5 MB)
+                 93.54 ms   (jitter: 26.98ms, low: 27.77ms, high: 281.22ms)
+      Upload:     8.04 Mbps (data used: 4.6 MB)
+                398.80 ms   (jitter: 81.35ms, low: 89.33ms, high: 599.97ms)
+ Packet Loss:     0.0%
+  Result URL: https://www.speedtest.net/result/c/2629da43-3a0c-4cec-bba4-43f33a9b1c59
